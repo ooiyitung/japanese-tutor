@@ -1,0 +1,113 @@
+{
+  "lessons": [
+    {
+      "id": "lesson-tsurete-01",
+      "recordedOn": "2026-10-12",
+      "book": "N2 Daily Lessons",
+      "title": "Gradual change with につれて",
+      "focus": ["につれて", "少しずつ", "変化", "聞き取り"],
+      "summary": "Practiced describing two changes that progress together, made original sentences, translated reading and listening ideas, and finished with a personal Japanese paragraph.",
+      "grammar": {
+        "pattern": "Vる／N＋につれて",
+        "explanation": "As one change progresses, another related change also develops. The result clause normally describes a change rather than a deliberate action.",
+        "example": "経験を積むにつれて、仕事の進め方が分かってきた。",
+        "sources": [
+          {"label": "The Japan Foundation: につれて／につれ", "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00034/ja/render.do"},
+          {"label": "Meguro Language Center: JLPT N2 grammar", "url": "https://www.mlcjapanese.co.jp/n2_04_32.html"}
+        ]
+      },
+      "activities": [
+        {
+          "title": "Opening sentence · expressing a change over time",
+          "items": [
+            {
+              "original": "日本語を話すのが緊張でしたが、今は同僚と話せるようになる。",
+              "correction": "日本語を話すときは緊張していましたが、今は同僚と話せるようになりました。",
+              "alternative": "最初は日本語を話すのが不安でしたが、今では同僚とも話せるようになりました。",
+              "note": "緊張 is commonly used with する: 緊張する／緊張している. For an achieved change in the past, use 話せるようになりました."
+            }
+          ]
+        },
+        {
+          "title": "Vocabulary recall",
+          "items": [
+            {
+              "original": "１）変化　２）徐々に　３）増加",
+              "correction": "１）変化（change）　２）徐々に（gradually）　３）増加（increase）",
+              "note": "All three choices fit the topic. 徐々に is an adverb; 増加 is a noun and is also used as 増加する."
+            }
+          ]
+        },
+        {
+          "title": "Build sentences with につれて",
+          "items": [
+            {
+              "original": "経験を積むにつれて、仕事の進め方が分かってきた。",
+              "correction": "経験を積むにつれて、仕事の進め方が分かってきた。",
+              "alternative": "経験を重ねるにつれて、仕事の進め方が少しずつ分かってきた。",
+              "note": "Natural and grammatically sound. 分かってきた emphasizes that understanding developed over time."
+            },
+            {
+              "original": "日本語を勉強するにつれて、漢字も読めるようになる。",
+              "correction": "日本語を勉強するにつれて、漢字も読めるようになってきた。",
+              "alternative": "日本語を勉強するにつれて、読める漢字が少しずつ増えてきた。",
+              "note": "The original is correct as a general tendency or prediction. 〜ようになってきた fits a change already underway."
+            }
+          ]
+        },
+        {
+          "title": "Reading · translate the idea naturally",
+          "items": [
+            {
+              "original": "Even though he could memorised the words. Over time, being unable to use the memorised words, he did not become better in conversation.",
+              "correction": "Although he memorized the words, he couldn't use them in conversation, so he didn't get any better at speaking.",
+              "note": "After could, use the base verb (could memorize). Here, although connects the contrast, and get better at speaking is more natural than become better in conversation."
+            },
+            {
+              "original": "He could inferred the meaning of articles even though they may contain words that he did not know",
+              "correction": "He could infer the meaning of an article even if it contained words he didn't know.",
+              "note": "After could, use infer, not inferred. The past-tense clause keeps the sentence consistent."
+            },
+            {
+              "original": "につれて　少しずつ    he feels less anxious about speaking Japanese",
+              "correction": "日本語を話す練習を続けるにつれて、話すことへの不安が少しずつ減ってきた。",
+              "alternative": "As he kept practicing speaking Japanese, he gradually felt less anxious about it.",
+              "note": "少しずつ works naturally with a gradual change. 不安が減る describes anxiety decreasing."
+            }
+          ]
+        },
+        {
+          "title": "Listening · summarize the main ideas",
+          "items": [
+            {
+              "original": "He could catch the flow of of the news even though he could not understand every word",
+              "correction": "He could follow the general flow of the news even though he couldn't understand every word.",
+              "note": "Use follow the flow of the news or follow the general idea. The repeated of was removed."
+            },
+            {
+              "original": "He tried to look up every word that he did not understand, he could not finish the podcast before reaching his stop",
+              "correction": "He tried to look up every unfamiliar word, so he couldn't finish the podcast before he reached his stop.",
+              "note": "The original joined two complete clauses with a comma. Adding so makes the cause-and-result relationship clear."
+            },
+            {
+              "original": "He would try to infer the meaning of the content from context, and only look up the meaning of words that he is curious, instead of every word",
+              "correction": "He tried to infer the meaning from context and looked up only the words he was curious about, instead of looking up every word.",
+              "note": "Say curious about a word. Keeping the two past-tense actions parallel makes the sentence smoother."
+            }
+          ]
+        },
+        {
+          "title": "Final output · personal reflection",
+          "items": [
+            {
+              "original": "cafetalkで日本人の先生と話すにつれて、聴く力が徐々に強くなりました。ドラマを見ると、分からない内容を推測できるようになりました。もっと頑張ろうと思います。",
+              "correction": "Cafetalkで日本人の先生と話すにつれて、聞き取りの力が徐々に伸びてきました。ドラマを見ると、分からない内容も推測できるようになりました。もっと頑張ろうと思います。",
+              "alternative": "Cafetalkで日本人の先生と話す機会を重ねるうちに、聞き取りが少しずつ上達してきました。ドラマを見ていると、分からない部分も文脈から推測できるようになりました。これからも頑張りたいです。",
+              "note": "聞く力が強くなる is understandable, but 聞き取りの力が伸びる or 聞き取りが上達する is a more natural collocation. につれて suits paired gradual changes; うちに can emphasize a change that developed through repeated experience."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
