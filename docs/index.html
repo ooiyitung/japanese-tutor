@@ -40,7 +40,9 @@
         <div class="toolbar">
           <label class="search"><span aria-hidden="true">⌕</span><input id="searchInput" type="search" placeholder="Search grammar, meaning, or number…" autocomplete="off"><kbd>/</kbd></label>
           <div class="filters"><button class="filter active" data-filter="all">All <span id="allCount">113</span></button><button class="filter" data-filter="unreviewed">To review</button><button class="filter" data-filter="reviewed">Reviewed</button></div>
+          <button class="practice-toggle" id="practiceToggle" type="button" aria-expanded="false" aria-controls="practicePanel"><span aria-hidden="true">✦</span> Practice round <span class="practice-xp" id="practiceXp">0 XP</span></button>
         </div>
+        <section class="practice-panel" id="practicePanel" hidden aria-labelledby="practiceTitle"></section>
         <div id="resultSummary" class="result-summary">Showing all 113 grammar points</div>
         <div id="pointList" class="point-list"></div>
         <div id="emptyState" class="empty-state" hidden><span>見つかりません</span><h3>No matches yet</h3><p>Try a shorter search, a Japanese form, or a chapter number.</p><button id="clearSearch">Clear search</button></div>
@@ -50,5 +52,6 @@
   </div>
   <dialog id="sourceDialog" class="source-dialog"><form method="dialog"><button class="close" aria-label="Close">×</button></form><div class="eyebrow small"><span class="eyebrow-line"></span> SOURCE KEY</div><h2>Whose explanation is this?</h2><p><b>Your notes</b> are summarized from the material you sent. They stay attached to their original chapter and point number.</p><p><b>External references</b> link to grammar sources. Your examples stay labeled separately, and the target pattern is highlighted in each example.</p><div class="source-key"><span class="source-badge user-badge">YOUR NOTES</span><span class="source-badge external-badge">EXTERNAL CLARIFICATION</span></div></dialog>
   <script src="app.js" defer></script>
+  <script src="gamify.js" defer></script>
 </body>
 </html>
