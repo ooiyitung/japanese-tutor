@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f6f2">
+  <meta name="description" content="A searchable, chapter-indexed Japanese grammar revision library built from your Try! N3 notes.">
+  <title>Japanese Revision Library</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="shell">
+    <aside class="rail" aria-label="Book and chapter navigation">
+      <a class="brand" href="#top" aria-label="Japanese Revision home"><span class="brand-mark">文</span><span>REVISION<br><b>STUDIO</b></span></a>
+      <div class="side-label">YOUR LIBRARY</div>
+      <button class="book-select active" id="bookButton"><span class="book-icon">書</span><span><b>Try! N3</b><small>Grammar Points</small></span><span class="chevron">⌄</span></button>
+      <div class="side-label chapter-label">CHAPTERS <span>11</span></div>
+      <nav id="chapterNav" class="chapter-nav"></nav>
+      <div class="rail-bottom"><span class="mini-dot"></span><span>Your notes stay yours<br><small>Organized for quick recall</small></span></div>
+    </aside>
+
+    <main id="top">
+      <header class="topbar">
+        <div class="breadcrumb">LIBRARY <span>/</span> TRY! N3 <span>/</span> GRAMMAR</div>
+        <div class="top-actions"><span class="privacy"><i></i> Public link</span><button class="icon-button" id="sourceToggle" title="Show source clarifications" aria-label="Show source clarifications">ⓘ</button></div>
+      </header>
+      <section class="hero">
+        <div class="hero-copy"><div class="eyebrow"><span class="eyebrow-line"></span> JAPANESE • GRAMMAR REVIEW</div>
+          <h1>Make every<br><em>pattern</em> stick.</h1>
+          <p>A calm place to revisit your notes, one chapter at a time. Search a form, jump to its source chapter, and keep your study moving.</p>
+          <div class="hero-meta"><span class="book-pill"><span>書</span> Try! N3 Grammar Points</span><span class="meta-divider"></span><span id="totalMeta">113 grammar points</span></div>
+        </div>
+        <div class="hero-art" aria-hidden="true"><div class="sun"></div><div class="enso"></div><span class="art-kana">続</span><div class="art-caption">A LITTLE<br>EVERY DAY</div><div class="art-index">N3 / 01—11</div></div>
+      </section>
+      <section class="workspace">
+        <div class="section-heading"><div><div class="eyebrow small"><span class="eyebrow-line"></span> THE COLLECTION</div><h2>Your grammar map</h2></div><div class="progress-box"><div class="progress-label"><span>REVIEWED</span><b id="progressText">0 / 113</b></div><div class="progress-track"><span id="progressBar"></span></div></div></div>
+        <div class="toolbar">
+          <label class="search"><span aria-hidden="true">⌕</span><input id="searchInput" type="search" placeholder="Search grammar, meaning, or number…" autocomplete="off"><kbd>/</kbd></label>
+          <div class="filters"><button class="filter active" data-filter="all">All <span id="allCount">113</span></button><button class="filter" data-filter="unreviewed">To review</button><button class="filter" data-filter="reviewed">Reviewed</button></div>
+        </div>
+        <div id="resultSummary" class="result-summary">Showing all 113 grammar points</div>
+        <div id="pointList" class="point-list"></div>
+        <div id="emptyState" class="empty-state" hidden><span>見つかりません</span><h3>No matches yet</h3><p>Try a shorter search, a Japanese form, or a chapter number.</p><button id="clearSearch">Clear search</button></div>
+      </section>
+      <footer><span>日本語を少しずつ。 <b>One pattern at a time.</b></span><span>NOTES: YOU · CLARIFICATIONS: SOURCED</span></footer>
+    </main>
+  </div>
+  <dialog id="sourceDialog" class="source-dialog"><form method="dialog"><button class="close" aria-label="Close">×</button></form><div class="eyebrow small"><span class="eyebrow-line"></span> SOURCE KEY</div><h2>Whose explanation is this?</h2><p><b>Your notes</b> are summarized from the material you sent. They stay attached to their original chapter and point number.</p><p><b>External clarification</b> appears only where I’ve added a correction or useful distinction. Each one links to the reference used.</p><div class="source-key"><span class="source-badge user-badge">YOUR NOTES</span><span class="source-badge external-badge">EXTERNAL CLARIFICATION</span></div></dialog>
+  <script src="app.js" defer></script>
+</body>
+</html>
