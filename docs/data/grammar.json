@@ -925,6 +925,755 @@
       "points": [
         103
       ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: 始める",
+      "url": "https://bunpou.jepang.org/en/lesson/0270/verb-hajimeru",
+      "points": [
+        1
+      ]
+    },
+    {
+      "label": "Mazii: ように言う",
+      "url": "https://mazii.net/en-US/search/grammar_details/606e33dc239544d29ed57356cac4bebf/jaen",
+      "points": [
+        2
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: という",
+      "url": "https://bunpou.jepang.org/en/lesson/0219/to-iu",
+      "points": [
+        3
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: と思う",
+      "url": "https://bunpou.jepang.org/en/lesson/0755/futsuukei-to-omou",
+      "points": [
+        4
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: そうだ (appearance)",
+      "url": "https://bunpou.jepang.org/en/lesson/0210/souda-appearance",
+      "points": [
+        5
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: 気がつくと (discovery example)",
+      "url": "https://bunpou.jepang.org/en/lesson/0387/itsunomanika",
+      "points": [
+        6
+      ]
+    },
+    {
+      "label": "Lexirise: ほど",
+      "url": "https://lexirise.app/learn/ja/grammar/hodo",
+      "points": [
+        7
+      ]
+    },
+    {
+      "label": "Tofugu: ていく・てくる",
+      "url": "https://www.tofugu.com/japanese-grammar/teiku-tekuru/",
+      "points": [
+        8
+      ]
+    },
+    {
+      "label": "Susume Nihongo: 続ける",
+      "url": "https://susumenihongo.app/book/46/",
+      "points": [
+        9
+      ]
+    },
+    {
+      "label": "Nihongo to Japan: なら",
+      "url": "https://www.nihongotojapan.com/en/grammar/grammar-nara-conditional/",
+      "points": [
+        10
+      ]
+    },
+    {
+      "label": "ManabiDojo: って",
+      "url": "https://manabidojo.com/grammar/tte/",
+      "points": [
+        11
+      ]
+    },
+    {
+      "label": "JP Notes: させてもらう",
+      "url": "https://jpnotes.app/en/grammar/n4/sasete-morau",
+      "points": [
+        12
+      ]
+    },
+    {
+      "label": "Hane: させられる",
+      "url": "https://hane-app.com/blog/n4-saserareru/",
+      "points": [
+        13
+      ]
+    },
+    {
+      "label": "Kanji Library: がる",
+      "url": "https://kanjilibrary.com/grammar/garu/",
+      "points": [
+        14
+      ]
+    },
+    {
+      "label": "Nihon Torii: たとたん",
+      "url": "https://www.nihontorii.com/grammar/ta-totan-ni",
+      "points": [
+        15
+      ]
+    },
+    {
+      "label": "ManabiDojo: 出す",
+      "url": "https://manabidojo.com/grammar/dasu/",
+      "points": [
+        16
+      ]
+    },
+    {
+      "label": "Bunpro: ようとしない",
+      "url": "https://bunpro.jp/grammar_points/-%E3%82%88%E3%81%86%E3%81%A8%E3%81%97%E3%81%AA%E3%81%84?deck_id=9",
+      "points": [
+        17
+      ]
+    },
+    {
+      "label": "GOTOJLPT: ことがある",
+      "url": "https://study.gotojlpt.com/en/n4-grammar/ru-koto-ga-aru.html",
+      "points": [
+        18
+      ]
+    },
+    {
+      "label": "Tofugu: ておく",
+      "url": "https://www.tofugu.com/japanese-grammar/teoku/",
+      "points": [
+        19
+      ]
+    },
+    {
+      "label": "Japan Foundation: 受身・迷惑の受身",
+      "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BTS00090/ja/render.do",
+      "points": [
+        20
+      ]
+    },
+    {
+      "label": "Japaneseness: によって",
+      "url": "https://japaneseness.com/grammar-n3/grammar_n3_089/",
+      "points": [
+        21
+      ]
+    },
+    {
+      "label": "Japan Foundation: に対して／に対する",
+      "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00060/ja/render.do",
+      "points": [
+        22
+      ]
+    },
+    {
+      "label": "Pass Japanese: ために (cause)",
+      "url": "https://passjapanese.com/en/grammar/n4/tame-cause",
+      "points": [
+        23
+      ]
+    },
+    {
+      "label": "Hane: につき",
+      "url": "https://hane-app.com/blog/n2-ni-tsuki/",
+      "points": [
+        24
+      ]
+    },
+    {
+      "label": "GOTOJLPT: とおりに",
+      "url": "https://study.gotojlpt.com/en/mimikara-n3-grammar/toori-doori.html",
+      "points": [
+        25
+      ]
+    },
+    {
+      "label": "Japan Foundation: を通じて／を通して",
+      "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00047/ja/render.do",
+      "points": [
+        26
+      ]
+    },
+    {
+      "label": "Gokigen: のように／のような",
+      "url": "https://blog.gokigen.jp/how-to-say-like-n-similar-to-n-in-japanese/",
+      "points": [
+        27
+      ]
+    },
+    {
+      "label": "Japan Foundation: によれば／によると",
+      "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00001/ja/render.do",
+      "points": [
+        28
+      ]
+    },
+    {
+      "label": "KidNihon: ということだ",
+      "url": "https://kidnihon.com/en/japanese/n3/grammar/toiu-koto-da",
+      "points": [
+        29
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: について",
+      "url": "https://bunpou.jepang.org/en/lesson/0259/ni-kansuru",
+      "points": [
+        30
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: なきゃいけない",
+      "url": "https://bunpou.jepang.org/en/lesson/0230/nakya-ikenai",
+      "points": [
+        32
+      ]
+    },
+    {
+      "label": "Lengaki: っけ",
+      "url": "https://www.lengaki.com/grammar/kke",
+      "points": [
+        33
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: たって／ても",
+      "url": "https://bunpou.jepang.org/en/lesson/0833/tatoe-temo",
+      "points": [
+        35
+      ]
+    },
+    {
+      "label": "Nihongo Jouzu: に決まっている",
+      "url": "https://nihongojouzu.jp/guide/n2-grammar/%E3%81%AB%E3%81%8D%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B",
+      "points": [
+        36
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: じゃない？",
+      "url": "https://bunpou.jepang.org/en/lesson/0873/janai-q",
+      "points": [
+        37
+      ]
+    },
+    {
+      "label": "ManabiDojo: って",
+      "url": "https://manabidojo.com/grammar/tte/",
+      "points": [
+        38
+      ]
+    },
+    {
+      "label": "KidNihon: みたい",
+      "url": "https://kidnihon.com/en/japanese/n3/grammar/mitai",
+      "points": [
+        39
+      ]
+    },
+    {
+      "label": "Bunpro: ばよかった",
+      "url": "https://bunpro.jp/ja/grammar_points/%E3%81%B0%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F",
+      "points": [
+        40
+      ]
+    },
+    {
+      "label": "Nihongo to Japan: てばかりいる",
+      "url": "https://www.nihongotojapan.com/en/grammar/grammar-te-bakari-iru",
+      "points": [
+        41
+      ]
+    },
+    {
+      "label": "Japan Foundation: ように／ような",
+      "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00010/ja/render.do",
+      "points": [
+        42
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: はもちろん",
+      "url": "https://bunpou.jepang.org/en/lesson/0829/wa-mochiron",
+      "points": [
+        43
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: ほど～ない",
+      "url": "https://bunpou.jepang.org/en/lesson/0327/hodo-nai",
+      "points": [
+        44
+      ]
+    },
+    {
+      "label": "Hane: 代わりに",
+      "url": "https://hane-app.com/blog/n3-kawari-ni/",
+      "points": [
+        45
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: ずに",
+      "url": "https://bunpou.jepang.org/en/lesson/0187/zuni",
+      "points": [
+        46
+      ]
+    },
+    {
+      "label": "Nihongo to Japan: まま",
+      "url": "https://www.nihongotojapan.com/en/grammar/grammar-mama",
+      "points": [
+        47
+      ]
+    },
+    {
+      "label": "Japan Foundation: ところ",
+      "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00036/ja/render.do",
+      "points": [
+        49
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: きる",
+      "url": "https://bunpou.jepang.org/en/lesson/0411/verb-masu-kiru",
+      "points": [
+        50
+      ]
+    },
+    {
+      "label": "Kanji Library: おかげで",
+      "url": "https://kanjilibrary.com/grammar/okagede/",
+      "points": [
+        51
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: を通じて (throughout)",
+      "url": "https://bunpou.jepang.org/en/lesson/0415/wo-tsuujite",
+      "points": [
+        52
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: んじゃない (opinion)",
+      "url": "https://bunpou.jepang.org/en/lesson/0875/n-janai",
+      "points": [
+        53
+      ]
+    },
+    {
+      "label": "Bunpro: といえば",
+      "url": "https://bunpro.jp/grammar_points/240",
+      "points": [
+        54
+      ]
+    },
+    {
+      "label": "Japan Foundation: べき",
+      "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00044/ja/render.do",
+      "points": [
+        55
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: にとって",
+      "url": "https://bunpou.jepang.org/en/lesson/0787/ni-totte",
+      "points": [
+        56
+      ]
+    },
+    {
+      "label": "Japanese Compass: ば～ほど",
+      "url": "https://www.japanesecompass.com/learn/grammar/n3/n3-ba-hodo/",
+      "points": [
+        57
+      ]
+    },
+    {
+      "label": "Hane: によって／による",
+      "url": "https://hane-app.com/blog/n3-ni-yotte/",
+      "points": [
+        58
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: はもちろん",
+      "url": "https://bunpou.jepang.org/en/lesson/0829/wa-mochiron",
+      "points": [
+        59
+      ]
+    },
+    {
+      "label": "YouTube lesson: たびに",
+      "url": "https://www.youtube.com/watch?v=BgB9nqoAK54",
+      "points": [
+        60
+      ]
+    },
+    {
+      "label": "JLPT Mastery: はず",
+      "url": "https://jlptmastery.com/grammar/n4/hazu-da",
+      "points": [
+        61
+      ]
+    },
+    {
+      "label": "KEN Japanese Exercises: ですと／ますと",
+      "url": "https://japaneseexercises.com/2023/06/30/%E3%80%90jlpt-n3-%EF%BD%9E%E3%81%A7%E3%81%99%E3%81%A8%EF%BC%8F%E3%81%BE%E3%81%99%E3%81%A8%E3%80%80%E6%96%87%E6%B3%95%E8%A7%A3%E8%AA%AC%E3%83%BB%E5%95%8F%E9%A1%8C%E3%80%91/",
+      "points": [
+        62
+      ]
+    },
+    {
+      "label": "JLPT Mastery: ようだ",
+      "url": "https://jlptmastery.com/grammar/n4/you-da",
+      "points": [
+        63
+      ]
+    },
+    {
+      "label": "Kanji Library: てくる／ていく",
+      "url": "https://kanjilibrary.com/grammar/tekuru-teiku/",
+      "points": [
+        64
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: ものですから",
+      "url": "https://bunpou.jepang.org/en/lesson/0363/mono-desu-kara",
+      "points": [
+        65
+      ]
+    },
+    {
+      "label": "Hane: なんか／なんて",
+      "url": "https://hane-app.com/blog/n3-nanka-nante-nado/",
+      "points": [
+        66
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: と思う",
+      "url": "https://bunpou.jepang.org/en/lesson/0755/futsuukei-to-omou",
+      "points": [
+        67
+      ]
+    },
+    {
+      "label": "Japan Foundation: うちに",
+      "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00065/ja/render.do",
+      "points": [
+        68
+      ]
+    },
+    {
+      "label": "Nihongo Circle: たばかり",
+      "url": "https://nihongocircle.com/grammar/n4-bakari",
+      "points": [
+        69
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: ばいいのに",
+      "url": "https://bunpou.jepang.org/en/lesson/0454/ba-ii-noni",
+      "points": [
+        70
+      ]
+    },
+    {
+      "label": "Japan Foundation: ていただきたい",
+      "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00096/ja/render.do",
+      "points": [
+        71
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: いただく",
+      "url": "https://bunpou.jepang.org/en/lesson/0753/itadakimasu",
+      "points": [
+        72
+      ]
+    },
+    {
+      "label": "Tae Kim: honorific and humble forms",
+      "url": "https://guidetojapanese.org/learn/grammar/honorific",
+      "points": [
+        74
+      ]
+    },
+    {
+      "label": "Japan Foundation: おVください／ごNください",
+      "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00087/ja/render.do",
+      "points": [
+        75
+      ]
+    },
+    {
+      "label": "Genki lesson: でしょうか",
+      "url": "https://www.youtube.com/watch?v=MiH2VhXMfbw",
+      "points": [
+        76
+      ]
+    },
+    {
+      "label": "Agency for Cultural Affairs: 敬語",
+      "url": "https://www.bunka.go.jp/seisaku/kokugo_nihongo/kokugo_shisaku/keigo/chapter2/detail.html",
+      "points": [
+        77
+      ]
+    },
+    {
+      "label": "Japan Foundation: させていただく",
+      "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00098/ja/render.do",
+      "points": [
+        78
+      ]
+    },
+    {
+      "label": "Jdict: てからでないと",
+      "url": "https://jdict.net/grammar/157",
+      "points": [
+        79
+      ]
+    },
+    {
+      "label": "ManabiDojo: かのように",
+      "url": "https://manabidojo.com/grammar/kano-youda/",
+      "points": [
+        80
+      ]
+    },
+    {
+      "label": "Japan Foundation: うちに",
+      "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00065/ja/render.do",
+      "points": [
+        81
+      ]
+    },
+    {
+      "label": "Japan Foundation: 向け",
+      "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00055/ja/render.do",
+      "points": [
+        82
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: によって",
+      "url": "https://bunpou.jepang.org/en/lesson/0254/ni-yotte",
+      "points": [
+        83
+      ]
+    },
+    {
+      "label": "JLPT Mastery: 最中に",
+      "url": "https://jlptmastery.com/grammar/n3/saichu-ni",
+      "points": [
+        84
+      ]
+    },
+    {
+      "label": "Unihongo: かける (unfinished action)",
+      "url": "https://unihongo.com/japanese-kakeru-unfinished-action",
+      "points": [
+        85
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: てはいられない",
+      "url": "https://bunpou.jepang.org/en/lesson/0481/te-wa-irarenai",
+      "points": [
+        86
+      ]
+    },
+    {
+      "label": "Practice Japanese: わけがない",
+      "url": "https://practice-japanese.com/grammar/wake-ga-nai/",
+      "points": [
+        87
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: しかない",
+      "url": "https://bunpou.jepang.org/en/lesson/0455/shikanai",
+      "points": [
+        88
+      ]
+    },
+    {
+      "label": "JLPTsensei: からこそ",
+      "url": "https://jlptsensei.com/learn-japanese-grammar/%E3%81%8B%E3%82%89%E3%81%93%E3%81%9D-kara-koso-meaning/",
+      "points": [
+        89
+      ]
+    },
+    {
+      "label": "Hane: なんか／なんて",
+      "url": "https://hane-app.com/blog/n3-nanka-nante-nado/",
+      "points": [
+        90
+      ]
+    },
+    {
+      "label": "Kotomora: っこない",
+      "url": "https://kotomora.com/en/ja/grammar/n3/kkonai-there-is-no-way",
+      "points": [
+        91
+      ]
+    },
+    {
+      "label": "Nihon Torii: からといって",
+      "url": "https://www.nihontorii.com/grammar/kara-to-itte",
+      "points": [
+        92
+      ]
+    },
+    {
+      "label": "MLC Japanese: とは限らない",
+      "url": "https://www.mlcjapanese.co.jp/n3_04_02.html",
+      "points": [
+        93
+      ]
+    },
+    {
+      "label": "Tanoshuke: といったら",
+      "url": "https://tanosuke.com/toittara-2/",
+      "points": [
+        94
+      ]
+    },
+    {
+      "label": "Nihon Torii: くせに",
+      "url": "https://www.nihontorii.com/grammar/kuse-ni",
+      "points": [
+        95
+      ]
+    },
+    {
+      "label": "Practice Japanese: っぽい",
+      "url": "https://practice-japanese.com/grammar/ppoi-detail/",
+      "points": [
+        96
+      ]
+    },
+    {
+      "label": "Kanji Library: せいか",
+      "url": "https://kanjilibrary.com/grammar/sei-ka/",
+      "points": [
+        97
+      ]
+    },
+    {
+      "label": "KidNihon: のことだから",
+      "url": "https://kidnihon.com/en/japanese/n2/grammar/no-koto-dakara",
+      "points": [
+        98
+      ]
+    },
+    {
+      "label": "Practice Japanese: 気味",
+      "url": "https://practice-japanese.com/grammar/gimi/",
+      "points": [
+        99
+      ]
+    },
+    {
+      "label": "J-nihongo: なんかいない",
+      "url": "https://j-nihongo.com/n3-index-9ca1e31ac4/",
+      "points": [
+        100
+      ]
+    },
+    {
+      "label": "Japan Foundation: さえ",
+      "url": "https://www.kyozai.jpf.go.jp/kyozai/material/BMA00040/ja/render.do",
+      "points": [
+        101
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: ぐらい",
+      "url": "https://bunpou.jepang.org/en/lesson/0328/gurai",
+      "points": [
+        102
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: だらけ",
+      "url": "https://bunpou.jepang.org/en/lesson/0332/darake",
+      "points": [
+        104
+      ]
+    },
+    {
+      "label": "Practice Japanese: らしい",
+      "url": "https://practice-japanese.com/grammar/rashii/",
+      "points": [
+        106
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: かと思うと (related pattern)",
+      "url": "https://bunpou.jepang.org/en/lesson/0884/ka-to-omou-to",
+      "points": [
+        107
+      ]
+    },
+    {
+      "label": "Bunpro: とか",
+      "url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%8B",
+      "points": [
+        108
+      ]
+    },
+    {
+      "label": "Nihongo to Japan: ついでに",
+      "url": "https://www.nihongotojapan.com/en/grammar/grammar-tsuide-ni",
+      "points": [
+        109
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: に違いない",
+      "url": "https://bunpou.jepang.org/en/lesson/0323/ni-chigainai",
+      "points": [
+        110
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: ほど～ない",
+      "url": "https://bunpou.jepang.org/en/lesson/0327/hodo-nai",
+      "points": [
+        111
+      ]
+    },
+    {
+      "label": "KidNihon: 抜きで",
+      "url": "https://kidnihon.com/en/japanese/n2/grammar/nuki-nishite",
+      "points": [
+        112
+      ]
+    },
+    {
+      "label": "Nihongo to Japan: しょうがない / てならない",
+      "url": "https://www.nihongotojapan.com/en/grammar/grammar-te-naranai",
+      "points": [
+        113
+      ]
     }
   ]
 }
