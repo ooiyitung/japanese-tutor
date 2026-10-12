@@ -1,0 +1,952 @@
+{
+  "book": "Try! N3 Grammar Points",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "初めての富士登山"
+    },
+    {
+      "id": 2,
+      "title": "僕の犬、クロ"
+    },
+    {
+      "id": 3,
+      "title": "市民農園の募集"
+    },
+    {
+      "id": 4,
+      "title": "水泳大会"
+    },
+    {
+      "id": 5,
+      "title": "手作りハムのレシピ"
+    },
+    {
+      "id": 6,
+      "title": "里山について"
+    },
+    {
+      "id": 7,
+      "title": "不動産屋で"
+    },
+    {
+      "id": 8,
+      "title": "就職の面接"
+    },
+    {
+      "id": 9,
+      "title": "花見"
+    },
+    {
+      "id": 10,
+      "title": "ゆきの選択"
+    },
+    {
+      "id": 11,
+      "title": "友達のお見舞い"
+    }
+  ],
+  "points": [
+    [
+      1,
+      1,
+      "Vます＋始める／終わる",
+      "Start or finish an action",
+      "始める marks the beginning of an action; 終わる marks its completion."
+    ],
+    [
+      2,
+      1,
+      "Vる・Vない＋ように言う",
+      "Report an instruction or advice",
+      "Reports a request, instruction, prohibition, or advice given to someone."
+    ],
+    [
+      3,
+      1,
+      "Plain form＋という＋N",
+      "Content quoted or described as a noun",
+      "Packages a statement as the content of a noun such as こと, 話, or 文字."
+    ],
+    [
+      4,
+      1,
+      "Plain form＋だろうと思う",
+      "Think or expect that something is probably true",
+      "A tentative expectation. Nouns and な-adjectives use だろうと思う."
+    ],
+    [
+      5,
+      1,
+      "Aく／Aじゃ／Nじゃ＋なさそうだ",
+      "Doesn’t look / seem …",
+      "Negative appearance or impression: 辛くなさそう, 大変じゃなさそう."
+    ],
+    [
+      6,
+      1,
+      "Vる＋と",
+      "On doing X, discover Y",
+      "Often describes a discovery or unexpected state noticed after an action; the result is often past tense."
+    ],
+    [
+      7,
+      1,
+      "V・A・N＋ほど",
+      "To the extent that …",
+      "Expresses degree, often with an unusually strong result or state."
+    ],
+    [
+      8,
+      1,
+      "Vていく／Vてくる",
+      "Change or movement away / toward the speaker’s viewpoint",
+      "いく can show movement away or change continuing into the future; くる can show movement toward, change emerging, or an action continuing from the past."
+    ],
+    [
+      9,
+      1,
+      "Vます-stem＋続ける",
+      "Continue doing",
+      "Shows that an action continues over time."
+    ],
+    [
+      10,
+      1,
+      "Vる・N＋なら",
+      "If it’s about … / if you’re going to …",
+      "Introduces a relevant topic or condition and often leads to advice or a suggestion."
+    ],
+    [
+      11,
+      2,
+      "N＋って＋N",
+      "Colloquial topic or explanation",
+      "Casual form used to introduce or explain a person, place, or thing."
+    ],
+    [
+      12,
+      2,
+      "Vさせてもらう／Vさせてくれる",
+      "Receive / give permission to do",
+      "Causative + てもらう／くれる expresses permission received or granted."
+    ],
+    [
+      13,
+      2,
+      "Vさせられる",
+      "Be made to do",
+      "Causative-passive: someone is made to do something, often unwillingly. Godan verbs may contract to ～される."
+    ],
+    [
+      14,
+      2,
+      "A・Vたい＋がる",
+      "Show signs of feeling or wanting",
+      "Used to describe observable feelings or desires in another person (and sometimes animals)."
+    ],
+    [
+      15,
+      2,
+      "Vた＋とたん（に）",
+      "Just as / the moment after",
+      "A second event occurs immediately after the first, often unexpectedly."
+    ],
+    [
+      16,
+      2,
+      "Vます-stem＋出す",
+      "Suddenly start",
+      "Marks the sudden beginning of an action or change."
+    ],
+    [
+      17,
+      2,
+      "Vようとする／しない",
+      "Try or intend to; refuse to",
+      "Describes an attempt or intention; negative form can criticize a refusal to act. ～ようとしたら often introduces an interruption."
+    ],
+    [
+      18,
+      2,
+      "Vる・Vない＋ことがある",
+      "Sometimes do / sometimes happens",
+      "Describes an occasional action or event."
+    ],
+    [
+      19,
+      2,
+      "Vさせておく",
+      "Leave / let someone keep doing",
+      "Leave someone in a state or allow an action to continue, sometimes after instructing them."
+    ],
+    [
+      20,
+      2,
+      "Vられてしまう",
+      "Suffer an unwelcome action",
+      "Passive + しまう often conveys that another person’s action inconvenienced or upset the speaker."
+    ],
+    [
+      21,
+      3,
+      "N＋によって／による＋N",
+      "By means of; according to",
+      "によって can indicate means or agent; による modifies a following noun."
+    ],
+    [
+      22,
+      3,
+      "N＋に対して／に対する＋N",
+      "Toward; with regard to",
+      "Marks the target or subject of an attitude, action, policy, or discussion."
+    ],
+    [
+      23,
+      3,
+      "Plain form・Aな・Nの＋ため（に）",
+      "Because of; for the sake of",
+      "Can state a cause or a purpose; context distinguishes the two."
+    ],
+    [
+      24,
+      3,
+      "N＋につき",
+      "Per; for each",
+      "Formal counter expression, e.g. 一人につき三つ (three per person)."
+    ],
+    [
+      25,
+      3,
+      "Vる・Vた・Nの＋通り（に）",
+      "As; in the way that",
+      "Says something happens as expected, described, or instructed."
+    ],
+    [
+      26,
+      3,
+      "N＋を通して／を通じて",
+      "Through; by way of",
+      "Indicates a medium, intermediary, or means of gaining experience."
+    ],
+    [
+      27,
+      3,
+      "N＋のような／のように＋N",
+      "Like; such as",
+      "Uses a noun as a comparison or example."
+    ],
+    [
+      28,
+      3,
+      "N＋によれば／によると",
+      "According to",
+      "Introduces a source of information, often followed by そうだ, らしい, or ということだ."
+    ],
+    [
+      29,
+      3,
+      "Plain form＋ということだ／とのことだ",
+      "I heard / it is said that",
+      "Reports information or a message heard from another source."
+    ],
+    [
+      30,
+      3,
+      "N＋について（は・も・の）",
+      "About; regarding",
+      "Marks the topic of study, information, or discussion."
+    ],
+    [
+      31,
+      4,
+      "Casual contractions: てる・とく・ちゃう・なきゃ",
+      "Common spoken contractions",
+      "Examples: 見ている→見てる; 読んでおく→読んどく; 忘れてしまう→忘れちゃう; 読まなければ→読まなきゃ."
+    ],
+    [
+      32,
+      4,
+      "なきゃ（いけない）",
+      "Have to; must",
+      "Casual shortening of なければいけない; context may omit いけない."
+    ],
+    [
+      33,
+      4,
+      "Plain form＋っけ",
+      "What was … again?",
+      "Casual way to check or recall information, often something previously known."
+    ],
+    [
+      34,
+      4,
+      "Plain past＋りして",
+      "Maybe …; perhaps … (casual guess)",
+      "At sentence end, ～たりして can make a light, speculative guess. It is not a general past-form + りして rule."
+    ],
+    [
+      35,
+      4,
+      "だって／たって",
+      "Even if; even though",
+      "Colloquial equivalent of でも／ても in concessive statements."
+    ],
+    [
+      36,
+      4,
+      "Plain form＋に決まっている",
+      "Must be; surely",
+      "Strongly asserts that something is certain or obvious."
+    ],
+    [
+      37,
+      4,
+      "Plain form＋じゃない",
+      "Isn’t it …? / It is …, isn’t it?",
+      "Casual confirmation or assertion; intonation and context affect the meaning."
+    ],
+    [
+      38,
+      4,
+      "N＋って",
+      "As for …; called …",
+      "Colloquial topic marker or quotation marker, depending on context."
+    ],
+    [
+      39,
+      4,
+      "Plain form＋みたい",
+      "Seems; looks like; like",
+      "Casual expression of impression, inference, or similarity."
+    ],
+    [
+      40,
+      4,
+      "ば／ければ／なら＋良かった",
+      "I wish I had … / It would have been good if …",
+      "Expresses regret or hindsight about a different condition or choice."
+    ],
+    [
+      41,
+      4,
+      "N・Vて＋ばかり",
+      "Nothing but; always doing",
+      "N＋ばかり means mostly/nothing but; Vて＋ばかりいる suggests repeatedly doing one thing, often critically. Vた＋ばかり means just did."
+    ],
+    [
+      42,
+      5,
+      "Nの・V・A＋ようだ／ように／ようなN",
+      "Like; as if; seems",
+      "Forms comparison or impression; ような modifies a noun and ように modifies an action or description."
+    ],
+    [
+      43,
+      5,
+      "Nはもちろん、Nも",
+      "Not only … but also …",
+      "Highlights an expected item and adds another item."
+    ],
+    [
+      44,
+      5,
+      "N・V・A＋ほど～ない",
+      "Not as … as; not to the extent …",
+      "Says the degree is less than expected or less than a comparison point."
+    ],
+    [
+      45,
+      5,
+      "Nの・Vる・Vた＋代わりに",
+      "Instead of; in exchange for",
+      "Expresses substitution, exchange, or a trade-off."
+    ],
+    [
+      46,
+      5,
+      "Vない＋ずに（する→せずに）",
+      "Without doing",
+      "Formal/literary alternative to Vないで."
+    ],
+    [
+      47,
+      5,
+      "Vた・Nの＋まま",
+      "While still; leaving unchanged",
+      "A state remains as it is, or an expected action has not been done."
+    ],
+    [
+      48,
+      5,
+      "Verb ます-stem (連用形) to connect clauses",
+      "Written/formal clause linking",
+      "The ます-stem can connect actions or clauses in concise written language: 実施し、まとめる. It is not the て-form."
+    ],
+    [
+      49,
+      5,
+      "Vる・Vている・Vた＋ところに／へ／を／で",
+      "At the moment / just as",
+      "A person arrives, an event occurs, or an action is observed at a particular moment; the particle depends on the sentence."
+    ],
+    [
+      50,
+      5,
+      "Vます-stem＋きる",
+      "Finish completely; exhaustively",
+      "Means doing something to completion, or being thoroughly in a state such as 疲れ切る."
+    ],
+    [
+      51,
+      6,
+      "Plain form・Aな・Nの＋おかげで",
+      "Thanks to",
+      "Attributes a positive result to a person, condition, or action."
+    ],
+    [
+      52,
+      6,
+      "Time expression＋を通じて／を通して",
+      "Throughout a period",
+      "Says something continues or is true across the entire time period."
+    ],
+    [
+      53,
+      6,
+      "Vませんか／A・Nじゃないですか",
+      "Don’t you think …?",
+      "A question inviting the listener’s agreement or opinion."
+    ],
+    [
+      54,
+      6,
+      "というと／と言えば／と言ったら",
+      "Speaking of …",
+      "Introduces an association, representative example, or topic that comes to mind."
+    ],
+    [
+      55,
+      6,
+      "Vる＋べきだ／べきではない",
+      "Should; ought to",
+      "Expresses a strong sense of what is right or advisable. するべき and すべき are both used; すべき is more compact."
+    ],
+    [
+      56,
+      6,
+      "N＋にとって",
+      "For; from the perspective of",
+      "Shows how something is evaluated from a person’s point of view."
+    ],
+    [
+      57,
+      6,
+      "ば＋ほど",
+      "The more …, the more …",
+      "Describes two changes that increase together; for example, 勉強すればするほど."
+    ],
+    [
+      58,
+      6,
+      "N＋によって",
+      "Due to; by",
+      "Can identify a cause, means, or agent. Use context to tell which relationship is intended."
+    ],
+    [
+      59,
+      6,
+      "Plain form・Aな・Nである＋ばかりでなく～も",
+      "Not only … but also …",
+      "Adds a second point to the first; the structure can emphasize both."
+    ],
+    [
+      60,
+      6,
+      "Vる・Nの＋たびに",
+      "Whenever; every time",
+      "Describes something that happens each time an event occurs."
+    ],
+    [
+      61,
+      6,
+      "Plain form・Aな・Nの＋はず",
+      "Should; be expected to",
+      "Expresses an expectation based on a reason or evidence."
+    ],
+    [
+      62,
+      7,
+      "Polite present＋ますと／ですと",
+      "If … (polite business condition)",
+      "Formal way to state a condition and its result, often in service or business settings."
+    ],
+    [
+      63,
+      7,
+      "Plain form・Aな・Nの＋ようなら",
+      "If it seems that …",
+      "A tentative condition based on the situation or an impression."
+    ],
+    [
+      64,
+      7,
+      "Vてくる",
+      "A change begins / comes into view",
+      "Can describe a new change emerging or becoming noticeable, as well as movement toward the speaker."
+    ],
+    [
+      65,
+      7,
+      "Plain form・Aな・Nな＋もので／ものですから",
+      "Because; since",
+      "Gives a reason or excuse, often with a softer explanatory tone. Casual forms: もんで／もんだから."
+    ],
+    [
+      66,
+      7,
+      "N＋なんか／なんて",
+      "Such as; something like",
+      "Casual forms of など; can suggest an example, soften a suggestion, or express emotion depending on context."
+    ],
+    [
+      67,
+      7,
+      "Plain form＋かと思います",
+      "I think that … (modest)",
+      "Softens an opinion or prediction, often in polite or business conversation."
+    ],
+    [
+      68,
+      7,
+      "Vる・Vている・Vない＋うちに",
+      "While; before … changes",
+      "A change happens during an ongoing state or before that state ends."
+    ],
+    [
+      69,
+      7,
+      "Vた＋ばかり",
+      "Just did",
+      "The speaker feels little time has passed since the action, regardless of exact elapsed time."
+    ],
+    [
+      70,
+      7,
+      "ば／ければ／なら＋いいのに",
+      "I wish …; if only …",
+      "Expresses disappointment about the current situation, or a mild reproach/suggestion."
+    ],
+    [
+      71,
+      7,
+      "Vて＋もらってもいいですか／いただきたいんですが",
+      "Could you … for me?",
+      "Polite, softened request that acknowledges the other person’s effort."
+    ],
+    [
+      72,
+      8,
+      "お＋Vます-stem＋いただく／ご＋N＋くださる",
+      "Humble receive / honorific give",
+      "Polite expressions for receiving an action or acknowledging someone who does something for you."
+    ],
+    [
+      73,
+      8,
+      "てしまう／ておく contractions in polite speech",
+      "Polite forms and contractions",
+      "Distinguish the standard polite forms (てしまいます／ておきます) from casual contractions (ちゃいます／ときます)."
+    ],
+    [
+      74,
+      8,
+      "Honorific and humble vocabulary",
+      "Respectful alternatives",
+      "Examples from the notes: 会う→お目にかかる; 見せる→お目にかける; 知る→存じ上げる; 思う→存じる."
+    ],
+    [
+      75,
+      8,
+      "お＋Vます-stem＋です／ご＋N＋です",
+      "Respectful state or action",
+      "Honorific pattern for describing the listener’s or another respected person’s state/action; usage depends on the verb and context."
+    ],
+    [
+      76,
+      8,
+      "でしょうか",
+      "Could it be …? / Would …?",
+      "Polite question form used to soften a request or inquiry. Avoid stacking it mechanically after every ますか form."
+    ],
+    [
+      77,
+      8,
+      "ていらっしゃる／でいらっしゃる",
+      "Honorific ている / です",
+      "Respectful form for another person’s ongoing action or state. いらっしゃる refers to people; ございます is used for things or formal self-introduction."
+    ],
+    [
+      78,
+      8,
+      "Vさせていただく／くださる",
+      "Humbly receive permission / graciously allow",
+      "Common polite pattern for doing something with permission; use only when permission or benefit from the other party is relevant."
+    ],
+    [
+      79,
+      9,
+      "Vてからでなければ／からでないと",
+      "Cannot … until …",
+      "States that the later action is impossible or not allowed before the first action is completed."
+    ],
+    [
+      80,
+      9,
+      "かのように／かのような",
+      "As if; as though",
+      "Describes something as though it were true, often with まるで."
+    ],
+    [
+      81,
+      9,
+      "Vない・Vている・A・Nの＋うちに",
+      "While …; before …",
+      "Do something while a state still holds or before it changes."
+    ],
+    [
+      82,
+      9,
+      "N＋向けに／向けだ／向けの",
+      "Aimed at; intended for",
+      "Identifies a target audience or intended user group."
+    ],
+    [
+      83,
+      9,
+      "N＋によって／による＋N",
+      "Depending on; by means of",
+      "Same form family as point 21; meaning is determined by context (agent, means, cause, or variation)."
+    ],
+    [
+      84,
+      9,
+      "Vている・Nの＋最中に／最中だ",
+      "In the middle of",
+      "An event occurs during the middle of an ongoing action or period."
+    ],
+    [
+      85,
+      9,
+      "Vます-stem＋かけだ／かけの",
+      "Half-done; started but unfinished",
+      "Describes an action that has begun but remains incomplete."
+    ],
+    [
+      86,
+      9,
+      "Vない＋ずにはいられない／ではいられない",
+      "Cannot help doing",
+      "Expresses an irresistible feeling or urge to do something."
+    ],
+    [
+      87,
+      10,
+      "Plain form・Aな・Nの＋わけがない",
+      "There is no way that …",
+      "Strongly denies a possibility as unthinkable or unreasonable."
+    ],
+    [
+      88,
+      10,
+      "Vる＋しかない",
+      "Have no choice but to",
+      "Shows there is no practical alternative."
+    ],
+    [
+      89,
+      10,
+      "Plain form＋からこそ",
+      "Precisely because",
+      "Emphasizes that the stated reason is especially important."
+    ],
+    [
+      90,
+      10,
+      "N＋なんか／なんて",
+      "Things like …; something like …",
+      "Can mark an example, belittle something, or express surprise/emotion. The nuance depends on context; it is not limited to a strict noun-versus-verb split."
+    ],
+    [
+      91,
+      10,
+      "Vます-stem＋っこない",
+      "There is no chance that …",
+      "Strong colloquial impossibility, similar to わけがない."
+    ],
+    [
+      92,
+      10,
+      "Plain form＋からといって",
+      "Just because … doesn’t mean …",
+      "Often followed by a caution or denial that rejects an automatic conclusion."
+    ],
+    [
+      93,
+      10,
+      "Plain form＋とは限らない",
+      "Not necessarily",
+      "Says a general belief or expectation is not always true."
+    ],
+    [
+      94,
+      10,
+      "Aい・Aな＋ことといったら",
+      "How …!; the … was incredible",
+      "Strongly emphasizes a feeling, impression, or degree."
+    ],
+    [
+      95,
+      10,
+      "Plain form・Aな・Nの＋くせに",
+      "Even though; despite",
+      "Often critical or reproachful. Typically used about someone else’s inconsistency."
+    ],
+    [
+      96,
+      10,
+      "N・A＋っぽい",
+      "-ish; tends to; looks like",
+      "Describes an impression, tendency, or characteristic (e.g. 子どもっぽい)."
+    ],
+    [
+      97,
+      10,
+      "Plain form・Aな・Nの＋せい（か）",
+      "Because of; perhaps because of",
+      "せいで attributes an undesirable result to a cause; せいか presents the cause as uncertain."
+    ],
+    [
+      98,
+      10,
+      "N＋のことだから",
+      "Knowing …; knowing the kind of person …",
+      "Uses what is known about someone to make a likely prediction."
+    ],
+    [
+      99,
+      11,
+      "Vます-stem・N＋気味",
+      "A little; tending toward",
+      "Often describes a slight, usually temporary condition such as 疲れ気味 or 寝不足気味."
+    ],
+    [
+      100,
+      11,
+      "Vて＋なんかいない／なんかいられない",
+      "I’m not … at all / can’t afford to …",
+      "なんか／なんて adds emphasis: denial in the first pattern, inability to continue/allow in the second."
+    ],
+    [
+      101,
+      11,
+      "N＋助詞＋さえ／Vて＋さえ",
+      "Even",
+      "Emphasizes an extreme or surprising example; the particle before さえ depends on the noun’s role."
+    ],
+    [
+      102,
+      11,
+      "V・A・N＋くらい／ぐらい",
+      "To the extent that; at least",
+      "Can show degree or a minimum expectation. せめて often adds ‘at least’ as a wish or complaint."
+    ],
+    [
+      103,
+      11,
+      "Vます-stem＋っぱなし",
+      "Leave … on / keep …ing (undesirably)",
+      "Marks an action or state left unattended or continuing longer than appropriate. The form is っぱなし, not っぽなし."
+    ],
+    [
+      104,
+      11,
+      "N＋だらけ",
+      "Covered with; full of (usually undesirable things)",
+      "Often used with dirt, mistakes, or other things viewed negatively."
+    ],
+    [
+      105,
+      11,
+      "Plain past＋りして",
+      "Maybe …; perhaps … (soft guess)",
+      "Can make a tentative or light guess, or gently describe unexpected behavior; distinguish this from listing actions with ～たり～たりする."
+    ],
+    [
+      106,
+      11,
+      "N・A＋らしい",
+      "Typical of; characteristic of",
+      "Describes qualities that seem typical of a person, season, or group."
+    ],
+    [
+      107,
+      11,
+      "Plain form＋かと思ったら",
+      "Just when I thought …, then …",
+      "The initial impression or expectation is quickly overturned by what follows."
+    ],
+    [
+      108,
+      11,
+      "N・Vる＋とか",
+      "Such as; I heard that …",
+      "とか can list examples or casually report information; the role depends on the sentence."
+    ],
+    [
+      109,
+      11,
+      "Vる・Vた・Nの＋ついでに",
+      "While you’re at it; on the occasion of",
+      "Adds a secondary action done during an opportunity created by the main action."
+    ],
+    [
+      110,
+      11,
+      "Plain form・Aな・N＋に違いない／に相違ない",
+      "Must be; there is no doubt",
+      "Strong inference or conviction. に相違ない is more formal."
+    ],
+    [
+      111,
+      11,
+      "N・Vること＋ほど＋は＋ない",
+      "Nothing is as … as …",
+      "Emphasizes that something is unsurpassed in a particular context."
+    ],
+    [
+      112,
+      11,
+      "N＋抜きで／抜きに",
+      "Without; leaving out",
+      "Says something is omitted or excluded."
+    ],
+    [
+      113,
+      11,
+      "Vて・Aくて・Aで＋しょうがない",
+      "Can’t help feeling; unbearably …",
+      "Expresses an intense feeling or state that is hard to control. Also written しようがない."
+    ]
+  ],
+  "sourceNotes": [
+    {
+      "point": 13,
+      "note": "Godan verbs may have a contracted causative-passive: 読む→読ませられる／読まされる. Ichidan 食べる stays 食べさせられる; する becomes させられる."
+    },
+    {
+      "point": 20,
+      "note": "The pattern is ～られてしまう (しまう), not ～られてしまる."
+    },
+    {
+      "point": 31,
+      "note": "The examples 読んどく／調べとく are contractions of ておく, not ていく."
+    },
+    {
+      "point": 34,
+      "note": "Use ～たりして for the light guess (e.g. 高かったりして); the formation is not simply ‘past form + りして’."
+    },
+    {
+      "point": 48,
+      "note": "Clause-linking examples like 実施し、まとめる use the ます-stem/連用形, not the て-form."
+    },
+    {
+      "point": 103,
+      "note": "The standard form is ～っぱなし. It can describe a neglected state (e.g. leaving something on) or an action that continues, often with a negative nuance."
+    }
+  ],
+  "references": [
+    {
+      "label": "Bunpro: ておく and casual ～とく／～どく",
+      "url": "https://bunpro.jp/ja/grammar_points/162",
+      "points": [
+        31
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: ておく",
+      "url": "https://bunpou.jepang.org/en/lesson/0147/te-oku",
+      "points": [
+        31
+      ]
+    },
+    {
+      "label": "Anime Sensei: ～たりして as a light guess",
+      "url": "https://www.animesenseijp.com/blog/tari-tari-japanese-grammar/",
+      "points": [
+        34,
+        105
+      ]
+    },
+    {
+      "label": "Bunpro: ます-stem / conjunctive form",
+      "url": "https://bunpro.jp/grammar_points/1082",
+      "points": [
+        48
+      ]
+    },
+    {
+      "label": "Bunpou.Jepang.org: てしまう",
+      "url": "https://bunpou.jepang.org/en/lesson/0145/te-shimau",
+      "points": [
+        20,
+        31,
+        73
+      ]
+    },
+    {
+      "label": "Tae Kim: ておく contraction",
+      "url": "https://www.guidetojapanese.org/enduring.html",
+      "points": [
+        31,
+        73
+      ]
+    },
+    {
+      "label": "Practice Japanese: causative-passive forms and contractions",
+      "url": "https://practice-japanese.com/grammar/causative-passive-detail/",
+      "points": [
+        13
+      ]
+    },
+    {
+      "label": "Jepang.org: ～っぱなし grammar and nuance",
+      "url": "https://bunpou.jepang.org/en/lesson/0496/verb-ppanashi",
+      "points": [
+        103
+      ]
+    }
+  ],
+  "examples": {
+    "13": [
+      "子供の時テストの成績が悪いと、父にトイレ掃除をさせられた。"
+    ],
+    "20": [
+      "あとで食べようと思っていたケーキを妹に食べられてしまった。"
+    ],
+    "31": [
+      "読んどいて＝読んでおいて",
+      "調べとかなきゃいけない＝調べておかなければいけない"
+    ],
+    "34": [
+      "もしかして寝てたりして。",
+      "すごく高かったりして。"
+    ],
+    "48": [
+      "アンケートを実施し、結果をまとめて発表する。"
+    ],
+    "103": [
+      "私はよく部屋の電気をつけっぱなしにして、母に注意される。"
+    ]
+  }
+}
